@@ -1,0 +1,18 @@
+[
+  {
+    "id": "A001",
+    "nombre": "Café Premium Tostado",
+    "descripcion": "Grano 100% arábica, origen Colombia, tueste medio.",
+    "precio": 15.99,
+    "imagenUrl": "images/A001.jpg",
+    "activo": true
+  },
+  {
+    "id": "B045",
+    "nombre": "Taza de Cerámica Artesanal",
+    "descripcion": "Hecha a mano, 350ml, apta para microondas.",
+    "precio": 8.50,
+    "imagenUrl": "images/B045.jpg",
+    "activo": true
+  }
+]
